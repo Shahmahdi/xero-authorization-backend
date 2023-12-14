@@ -1,0 +1,21 @@
+{
+  "name": "demo-api",
+  "version": "1.0.0",
+  "description": "demo api",
+  "main": "index.js",
+  "keywords": [],
+  "author": "mahdi",
+  "license": "ISC",
+  "dependencies": {
+    "auth0-js": "^9.23.3",
+    "axios": "^1.6.2",
+    "dotenv": "^5.0.1",
+    "jwt-decode": "^4.0.0",
+    "koa": "^2.4.1",
+    "koa-body": "^2.5.0",
+    "koa-router": "^7.3.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
